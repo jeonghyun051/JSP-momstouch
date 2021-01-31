@@ -73,13 +73,18 @@ CREATE TABLE menuboard(
 ## 🥇기능요소
 ![image](https://user-images.githubusercontent.com/74044292/106377442-5bdd8380-63e0-11eb-8e0d-8915352b4351.png)<br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377451-6bf56300-63e0-11eb-904b-592110873a15.png)<br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377477-9ba46b00-63e0-11eb-93a2-19becd8e1b62.png)
+<br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377496-b545b280-63e0-11eb-95cd-44226082fa64.png)
 <br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377505-c2fb3800-63e0-11eb-9f5d-d1fa585f5133.png)
 <br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377509-cabadc80-63e0-11eb-8721-1e194304f64b.png)
+<br/>
 <br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377512-d1495400-63e0-11eb-82d8-de0097bb37e9.png)
 ![image](https://user-images.githubusercontent.com/74044292/106377513-da3a2580-63e0-11eb-9d74-5e7e9425d92a.png)
