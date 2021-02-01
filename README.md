@@ -83,6 +83,9 @@ CREATE TABLE menuboard(
 ![image](https://user-images.githubusercontent.com/74044292/106377505-c2fb3800-63e0-11eb-9f5d-d1fa585f5133.png)
 <br/>
 <br/>
+![image](https://user-images.githubusercontent.com/74044292/106427120-243b0e00-64aa-11eb-8d15-c2a250bc772e.png)
+<br/>
+<br/>
 ![image](https://user-images.githubusercontent.com/74044292/106377509-cabadc80-63e0-11eb-8721-1e194304f64b.png)
 <br/>
 <br/>
